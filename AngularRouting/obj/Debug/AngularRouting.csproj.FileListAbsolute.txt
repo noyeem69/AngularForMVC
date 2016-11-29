@@ -1,0 +1,5 @@
+F:\2016\IT Projects\AngularJS_MVC\vslive-vegas-2015-angularformvcdevelopers\Angular For MVC Developers\Source\AngularRouting\bin\AngularRouting.dll
+F:\2016\IT Projects\AngularJS_MVC\vslive-vegas-2015-angularformvcdevelopers\Angular For MVC Developers\Source\AngularRouting\bin\AngularRouting.pdb
+F:\2016\IT Projects\AngularJS_MVC\vslive-vegas-2015-angularformvcdevelopers\Angular For MVC Developers\Source\AngularRouting\obj\Debug\AngularRouting.csprojResolveAssemblyReference.cache
+F:\2016\IT Projects\AngularJS_MVC\vslive-vegas-2015-angularformvcdevelopers\Angular For MVC Developers\Source\AngularRouting\obj\Debug\AngularRouting.dll
+F:\2016\IT Projects\AngularJS_MVC\vslive-vegas-2015-angularformvcdevelopers\Angular For MVC Developers\Source\AngularRouting\obj\Debug\AngularRouting.pdb
